@@ -1,0 +1,2 @@
+class PaypalError(Exception):
+    pass
